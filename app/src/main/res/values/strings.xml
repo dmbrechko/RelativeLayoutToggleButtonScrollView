@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RelativeLayoutToggleButtonScrollView</string>
+    <string name="digital_book">Digital book</string>
+    <string name="load">Load</string>
+</resources>
